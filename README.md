@@ -1,3 +1,3 @@
 # test_edezhorzh
-Наш первый комит))
-да не второй))))
+ФИО: Де-Жорж Евгений Викторович
+Хобби: making leather products with your own hands
